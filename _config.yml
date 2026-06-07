@@ -1,0 +1,11 @@
+title: yu2C 個人網站
+description: 使用 Markdown 管理內容的個人靜態網站
+lang: zh-TW
+theme: minima
+plugins:
+  - jekyll-feed
+
+header_pages:
+  - categories.md
+  - portfolio.md
+  - contact.md
